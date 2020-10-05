@@ -6,6 +6,7 @@
 ### Client - Login, Register, Logout pages
 
 - [x] applied Axios, React-router-dom
+- [x] fetch movie db from https://www.themoviedb.org/
 
 ##To use this application,
 
